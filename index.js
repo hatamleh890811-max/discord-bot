@@ -109,4 +109,4 @@ client.on('interactionCreate', async interaction => {
 });
 
 // تم إضافة التوكن الخاص بك هنا
-client.login('MTUyMzQ0NDU4MDA0Mzg1MzgyNA.GccPrc.ywLjCwyhfTYYOqimpXisU4w4aNGJ1kslP07fBc');
+client.login('MTUyMzQ0NDU4MDA0Mzg1MzgyNA.Gf1Uhg.h_AC9XfjRufwGeO2tRYqo3hsqCRc7SjNmm81Io');
